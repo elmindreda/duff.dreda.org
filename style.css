@@ -1,0 +1,63 @@
+
+/* Compatibility */
+body {
+  font-family: serif;
+}
+h1,h2,h3,h4,h5,h6 {
+  font-family: serif;
+}
+pre {
+  font-family: monospace;
+}
+
+/* Margins and sizes */
+body {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+h1 {
+  font-size: 160%;
+  margin-left: -8%;
+}
+h2 {
+  font-size: 140%;
+  margin-left: -4%;
+}
+h3 {
+  font-size: 120%;
+  margin-left: -2%;
+}
+h4,h5,h6 {
+  margin-left: -1%;
+  font-size: 110%;
+}
+
+/* Global heading styles */
+h1,h2,h3,h4,h5,h6 {
+  font-weight: normal;
+}
+
+/* Copyright line */
+p.copyright {
+  margin-top: 2em;
+  margin-right: -10%;
+  font-size: 50%;
+  text-align: right;
+}
+
+/* Example blocks of code or other text */
+pre {
+  border: solid;
+  border-width: thin;
+  padding: 0.5em;
+  width: 100%;
+}
+
+/* Link colors */
+a:link {
+  color: rgb(80, 80, 80);
+}
+a:visited {
+  color: rgb(160, 160, 160);
+}
+
