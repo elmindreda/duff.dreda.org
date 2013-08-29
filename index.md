@@ -74,6 +74,7 @@ The following distributions and package systems already carry duff packages:
  - Fink
  - FreeBSD
  - Gentoo Linux
+ - Homebrew
  - MacPorts
  - NetBSD (in WIP)
  - openSUSE
